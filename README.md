@@ -46,7 +46,6 @@ To launch Apache service and MySQL service, click on the Start button. if you wa
 ![favicon](https://user-images.githubusercontent.com/60801374/119417754-71a7e900-bcee-11eb-9d03-93d30104883e.png)
 
 **Admin Default Account**
-
 http://localhost/ClubMaker/welcome/admin
 
 - Email : admin@gmail.com 
