@@ -6,8 +6,11 @@ The first step is to install XAMPP onto your computer. it is very easy to instal
 https://www.apachefriends.org/fr/download.html
 
 ### Step 2:  clone project at "C:\xampp\htdocs"
+
 On GitHub, navigate to the main page of the repository.
+
 Above the list of files, click  Code.
+
 ![https-url-clone-cli](https://user-images.githubusercontent.com/60801374/119418609-46be9480-bcf0-11eb-9bf3-e82ced1787a0.png)
 
 Open your cmd write or your Open Git Bash. and Type 
@@ -16,17 +19,22 @@ Open your cmd write or your Open Git Bash. and Type
 
 
 ### Step 3: Open XAMPP control panel
+
 After installing XAMPP on to your PC the next step is to start the Apache server and MySQL.
 
 ![xampp-control-panel](https://user-images.githubusercontent.com/60801374/119418949-14616700-bcf1-11eb-98c7-8ad6e1991035.jpg)
 
 To launch Apache service and MySQL service, click on the Start button. if you want to stop any of the services at any time you can click on stop button in XAMPP control panel.
 ### Step 4: Go to http://localhost/phpmyadmin/
+
    i-  create new database mysql name it  "learnify"
+   
    ii- import database learnify.sql  from "C:\xampp\htdocs\ClubMaker\database"
    
 ### Step 5: now you can run it 
+
    Go to :
+   
    Student : http://localhost/ClubMaker/welcome
    
    admin   : http://localhost/ClubMaker/welcome/admin
@@ -36,6 +44,7 @@ To launch Apache service and MySQL service, click on the Start button. if you wa
 	
 	
 ![favicon](https://user-images.githubusercontent.com/60801374/119417754-71a7e900-bcee-11eb-9d03-93d30104883e.png)
+
 **Admin Default Account**
 
 http://localhost/ClubMaker/welcome/admin
