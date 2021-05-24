@@ -9,6 +9,7 @@ https://www.apachefriends.org/fr/download.html
 On GitHub, navigate to the main page of the repository.
 Above the list of files, click  Code.
 ![https-url-clone-cli](https://user-images.githubusercontent.com/60801374/119418609-46be9480-bcf0-11eb-9bf3-e82ced1787a0.png)
+
 Open your cmd write or your Open Git Bash. and Type 
 
                   $ git clone https://github.com/HatimLabied/ClubMaker.git
