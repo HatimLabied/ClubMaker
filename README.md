@@ -28,6 +28,7 @@ To launch Apache service and MySQL service, click on the Start button. if you wa
 ### Step 5: now you can run it 
    Go to :
    Student : http://localhost/ClubMaker/welcome
+   
    admin   : http://localhost/ClubMaker/welcome/admin
 	
  ### 👤 Default Account for testing	
