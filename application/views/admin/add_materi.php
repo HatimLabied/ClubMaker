@@ -176,10 +176,14 @@
                                                         <input required type="file" name="video" required class="custom-file-input" id="inputGroupFile01" aria-describedby="inputGroupFileAddon01">
                                                         <label class="custom-file-label" for="inputGroupFile01">Télécharger
                                                             Vidéo
-                                                            cours ici</label>
+                                                            cours ici
+                                                        </label>
+                                                            
                                                     </div>
                                                 </div>
                                             </div>
+                                    
+                                           <a href="http://g.co/meet/yourmeetingname"><button style="background:#fff;border-radius: 3px;width:100%;height:40px;"><h5>🎥  Créer réunion Classe google meet🔴🔵🟡</h5> </button></a> <br><br>
                                             <div class="form-group">
                                                 <label for="exampleFormControlTextarea1">Description de cours</label>
                                                 <textarea class="form-control" required name="deskripsi" id="exampleFormControlTextarea1" rows="3"></textarea>

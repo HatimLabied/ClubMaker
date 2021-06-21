@@ -119,7 +119,7 @@
                         <hr style="background-color: white;">
                         <h5 class="card-text"><?= $detail->nama_mapel; ?></h5>
                         <p class="card-text">Description du sujet: <br> <?= $detail->deskripsi; ?></p>
-                        
+                        <a href="http://g.co/meet/yourmeetingname"><button style="background:#fff;border-radius: 3px;width:100%;height:40px;"><h5>🎥  Participer au cours en ligne google meet🔴🔵🟡</h5> </button></a> <br><br>
                         <form action="../../download.php">
                                 <h5 class="card-text">Télécharger la vidéo</h5>
                                 <input type="submit" value="Télécharger" style="width:170px">

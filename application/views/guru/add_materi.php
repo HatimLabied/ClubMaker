@@ -371,14 +371,15 @@ echo $data['user']['nama_mapel'];?>" class="form-control" id="inputEmail4">
                                                 <input required type="file" name="video" class="custom-file-input"
                                                     id="inputGroupFile01" aria-describedby="inputGroupFileAddon01">
                                                 <label class="custom-file-label" for="inputGroupFile01">
-Télécharger des vidéos
+                                                    Télécharger des vidéos
                                                     cours ici</label>
                                             </div>
                                         </div>
                                     </div>
+                                    <a href="http://g.co/meet/yourmeetingname"><button style="background:#fff;border-radius: 3px;width:100%;height:40px;"><h5>🎥  Créer réunion Classe google meet🔴🔵🟡</h5> </button></a> <br><br>
                                     <div class="form-group">
                                         <label for="exampleFormControlTextarea1">
-description du cours</label>
+                                                Description du cours</label>
                                         <textarea class="form-control" required name="deskripsi"
                                             id="exampleFormControlTextarea1" rows="3"></textarea>
                                     </div>
