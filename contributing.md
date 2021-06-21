@@ -1,3 +1,3 @@
-# Bagaimana saya bergabung ke project ClubMaker?
+# contribution project ClubMaker?
 Hatim Labied/Ahmed El Moumin -ensem
 OCP-departement informatique 
